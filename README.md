@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aykhan 👋
 
-<!--
-**aykhan-ai/aykhan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering student
+🛠️ Building: FastAPI + Claude API + RAG systems
+📚 Currently learning: LangChain, Vector DBs, NVIDIA stack
+🚀 Featured project: [Contract Analyzer](https://github.com/aykhan-ai/contract-analyzer)
 
-Here are some ideas to get you started:
+## Stack
+Python • FastAPI • Pydantic • SQLAlchemy • Anthropic Claude API
+Redis • PostgreSQL • Prompt Engineering • Function Calling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- 🔭 Building AI-powered legal contract analyzer
+- 🌱 Learning RAG systems & agent architectures
+- 💼 Open to internships and collaboration
+
+📫 Contact:
+📧 aykhan728@protonmail.com — for project inquiries
